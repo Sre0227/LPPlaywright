@@ -1,0 +1,22 @@
+{
+  "name": "lpplaywright",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Sre0227/LPPlaywright#readme",
+  "bugs": {
+    "url": "https://github.com/Sre0227/LPPlaywright/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sre0227/LPPlaywright.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {},
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.6.0"
+  }
+}
